@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Sarah Daruk</h1>
 <h3 align="center">💻 Driven IT Student | Exploring New Horizons in Technology</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarah-md&label=Profile%20views&color=0e75b6&style=flat" alt="sarah-md" /> </p>
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sarah-md&label=Profile%20views&color=0e75b6&style=flat" alt="sarah-md" /> </p>
+---
 - 🔭 I’m currently working on learning MERN
 
 - 🧑‍🎓 I’m an Undergraduate at SLIIT
