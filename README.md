@@ -2,6 +2,7 @@
 <h3 align="center">💻 Driven IT Student | Exploring New Horizons in Technology</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sarah-md&label=Profile%20views&color=0e75b6&style=flat" alt="sarah-md" /> </p>
+
 ---
 
 - 🔭 I’m currently working on learning MERN
